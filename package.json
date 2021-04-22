@@ -1,0 +1,22 @@
+{
+  "name": "ipubnpm",
+  "version": "1.0.0",
+  "description": "ipubnpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-hotel/ipubnpm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/me-hotel/ipubnpm/issues"
+  },
+  "homepage": "https://github.com/me-hotel/ipubnpm#readme",
+  "devDependencies": {
+    "np": "^7.4.0"
+  }
+}
